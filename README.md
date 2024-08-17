@@ -59,11 +59,11 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Ch-Das-Official&theme=react&border_radius=10" alt="github-streak"/>
 
-<br/>
+
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Kunal-Ch-Das-Official&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="Kunal Chandra Das-GitHub-Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ch-Das-Official&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top-langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Ch-Das-Official&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top-langs" />
 </div>
 
 <br/><br/>
