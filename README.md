@@ -57,7 +57,7 @@
         <span style="color: #27c93f; font-size: 15px;">🟢</span>
         &nbsp;&nbsp;<code style="color: #8b949e; font-family: monospace;"><strong>kunal@subatomjs: ~</strong></code>
       </div>
-      <pre style="margin: 0; padding: 0; font-family: 'Fira Code', monospace; line-height: 1.55;"><code style="color: #c9d1d9;"><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">architect</span> = {
+      <pre style="margin: 0; padding: 0; font-family: 'Fira Code', monospace; line-height: 1.55;"><code style="color: #c9d1d9;"><span color="#ff7b72">const</span> <span style="color: #79c0ff;">architect</span> = {
   <span style="color: #7ee787;">name</span>: <span style="color: #a5d6ff;">"Kunal Chandra Das"</span>,
   <span style="color: #7ee787;">handle</span>: <span style="color: #a5d6ff;">"kunal@subatomjs.dev"</span>,
   <span style="color: #7ee787;">domain</span>: <span style="color: #a5d6ff;">"https://kunal.subatomjs.dev"</span>,
