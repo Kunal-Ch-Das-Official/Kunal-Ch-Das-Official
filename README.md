@@ -105,6 +105,88 @@
 
 <br/>
 
+<!-- 2x2 Featured Architectures & Repositories -->
+<div align="center">
+  <h3>📦 Featured Architectures &amp; Deployments</h3>
+
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <!-- Project 1 -->
+      <td width="50%" style="padding: 18px; background-color: #0d1117; border: 1px solid #30363d; vertical-align: top;">
+        <div style="margin-bottom: 8px;">
+          <span style="color: #00e5ff; font-size: 15px;">◆</span>&nbsp;
+          <a href="https://github.com/Kunal-Ch-Das-Official" target="_blank" style="text-decoration: none; font-size: 15px; font-weight: 700; color: #00e5ff;">
+            Subatom Ecosystem
+          </a>
+        </div>
+        <p style="margin: 0 0 12px 0; font-size: 13px; color: #8b949e; line-height: 1.55;">
+          High-performance modular architecture foundation and developer tooling engineered for modern TypeScript and Next.js runtimes.
+        </p>
+        <p style="margin: 0;">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Architecture-00E5FF?style=flat-square&logoColor=0D1117&labelColor=0D1117" />
+        </p>
+      </td>
+      <!-- Project 2 -->
+      <td width="50%" style="padding: 18px; background-color: #0d1117; border: 1px solid #30363d; vertical-align: top;">
+        <div style="margin-bottom: 8px;">
+          <span style="color: #00e5ff; font-size: 15px;">◆</span>&nbsp;
+          <a href="https://github.com/Kunal-Ch-Das-Official" target="_blank" style="text-decoration: none; font-size: 15px; font-weight: 700; color: #00e5ff;">
+            Cloud-Native Microservices
+          </a>
+        </div>
+        <p style="margin: 0 0 12px 0; font-size: 13px; color: #8b949e; line-height: 1.55;">
+          Distributed Node.js backend implementing containerized services with Docker, Redis multi-tier caching, and PostgreSQL persistence.
+        </p>
+        <p style="margin: 0;">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <!-- Project 3 -->
+      <td width="50%" style="padding: 18px; background-color: #0d1117; border: 1px solid #30363d; vertical-align: top;">
+        <div style="margin-bottom: 8px;">
+          <span style="color: #00e5ff; font-size: 15px;">◆</span>&nbsp;
+          <a href="https://github.com/Kunal-Ch-Das-Official" target="_blank" style="text-decoration: none; font-size: 15px; font-weight: 700; color: #00e5ff;">
+            Scalable Enterprise MERN Stack
+          </a>
+        </div>
+        <p style="margin: 0 0 12px 0; font-size: 13px; color: #8b949e; line-height: 1.55;">
+          Full-stack production platform featuring JWT RBAC authorization, custom UI components via Tailwind, and MongoDB aggregation pipelines.
+        </p>
+        <p style="margin: 0;">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+      </td>
+      <!-- Project 4 -->
+      <td width="50%" style="padding: 18px; background-color: #0d1117; border: 1px solid #30363d; vertical-align: top;">
+        <div style="margin-bottom: 8px;">
+          <span style="color: #00e5ff; font-size: 15px;">◆</span>&nbsp;
+          <a href="https://github.com/Kunal-Ch-Das-Official" target="_blank" style="text-decoration: none; font-size: 15px; font-weight: 700; color: #00e5ff;">
+            DevOps &amp; Cluster Orchestration
+          </a>
+        </div>
+        <p style="margin: 0 0 12px 0; font-size: 13px; color: #8b949e; line-height: 1.55;">
+          Infrastructure-as-code repository configuring Kubernetes pods, automated CI/CD runners, and Nginx reverse proxy routing on AWS.
+        </p>
+        <p style="margin: 0;">
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+          <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <!-- Engineering Pulse -->
 <div align="center">
   <h3>📊 Engineering Pulse</h3>
