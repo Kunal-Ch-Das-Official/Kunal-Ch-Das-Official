@@ -46,13 +46,15 @@
 <br/>
 
 <!-- Terminal Profile Card -->
+<div align="center" width="100%">
+
 <table width="100%" style="border-collapse: collapse;">
-  <tr>
+  <tr width="100%">
     <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 18px;">
       <div style="margin-bottom: 12px;">
-        <span style="color: #ff5f56; font-size: 15px;">●</span>
-        <span style="color: #ffbd2e; font-size: 15px;">●</span>
-        <span style="color: #27c93f; font-size: 15px;">●</span>
+        <span style="color: #ff5f56; font-size: 15px;">🔴</span>
+        <span style="color: #ffbd2e; font-size: 15px;">🟡</span>
+        <span style="color: #27c93f; font-size: 15px;">🟢</span>
         &nbsp;&nbsp;<code style="color: #8b949e; font-family: monospace;"><strong>kunal@subatomjs: ~</strong></code>
       </div>
       <pre style="margin: 0; padding: 0; font-family: 'Fira Code', monospace; line-height: 1.55;"><code style="color: #c9d1d9;"><span style="color: #ff7b72;">const</span> <span style="color: #79c0ff;">architect</span> = {
@@ -66,6 +68,8 @@
     </td>
   </tr>
 </table>
+</div>
+
 
 <br/>
 
