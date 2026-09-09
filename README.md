@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Waving Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:090d16,40:0d1b2a,75:1b263b,100:00e5ff&height=220&section=header&text=Kunal%20Chandra%20Das&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Maintainer%20of%20Subatom%20%7C%20End-to-End%20Systems&descAlignY=60&descAlign=50" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:090d16,40:0d1b2a,75:1b263b,100:00e5ff&height=220&section=header&text=Kunal%20Chandra%20Das&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Maintainer%20of%20Subatom%20%7C%20End-to-End%20Developer&descAlignY=60&descAlign=50" alt="Header" />
 
   <br/>
 
@@ -43,7 +43,7 @@
 
 </div>
 
-<br />
+ <br/><br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kunal-Ch-Das-Official/Kunal-Ch-Das-Official/refs/heads/main/public/profile_code_box.svg" alt="Terminal Profile" width="760" />
 </div>
