@@ -45,7 +45,7 @@
 
 <br />
 <div align="center">
-  <img src="./public/profile_code_box.svg" alt="Terminal Profile" width="760" />
+  <img src="https://raw.githubusercontent.com/Kunal-Ch-Das-Official/Kunal-Ch-Das-Official/refs/heads/main/public/profile_code_box.svg" alt="Terminal Profile" width="760" />
 </div>
 <br />
 <!-- System Arsenal & Skill Matrix -->
