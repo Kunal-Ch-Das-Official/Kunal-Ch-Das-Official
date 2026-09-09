@@ -43,36 +43,11 @@
 
 </div>
 
-<br/>
-
-<!-- Terminal Profile Card -->
-<div align="center" width="100%">
-
-<table width="100%" style="border-collapse: collapse;">
-  <tr width="100%">
-    <td style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 18px;">
-      <div style="margin-bottom: 12px;">
-        <span style="color: #ff5f56; font-size: 15px;">🔴</span>
-        <span style="color: #ffbd2e; font-size: 15px;">🟡</span>
-        <span style="color: #27c93f; font-size: 15px;">🟢</span>
-        &nbsp;&nbsp;<code style="color: #8b949e; font-family: monospace;"><strong>kunal@subatomjs: ~</strong></code>
-      </div>
-      <pre style="margin: 0; padding: 0; font-family: 'Fira Code', monospace; line-height: 1.55;"><code style="color: #c9d1d9;"><span style="color: #ff7b72">const</span> <span style="color: #79c0ff;">architect</span> = {
-  <span style="color: #7ee787;">name</span>: <span style="color: #a5d6ff;">"Kunal Chandra Das"</span>,
-  <span style="color: #7ee787;">handle</span>: <span style="color: #a5d6ff;">"kunal@subatomjs.dev"</span>,
-  <span style="color: #7ee787;">domain</span>: <span style="color: #a5d6ff;">"https://kunal.subatomjs.dev"</span>,
-  <span style="color: #7ee787;">status</span>: <span style="color: #a5d6ff;">"Designing resilient cloud-native ecosystems & performant webapps"</span>,
-  <span style="color: #7ee787;">currentStack</span>: [<span style="color: #a5d6ff;">"TypeScript"</span>, <span style="color: #a5d6ff;">"Next.js"</span>, <span style="color: #a5d6ff;">"Node.js"</span>, <span style="color: #a5d6ff;">"PostgreSQL"</span>, <span style="color: #a5d6ff;">"Redis"</span>],
-  <span style="color: #7ee787;">devOpsFocus</span>: [<span style="color: #a5d6ff;">"Docker"</span>, <span style="color: #a5d6ff;">"Kubernetes"</span>, <span style="color: #a5d6ff;">"AWS Cloud Infrastructure"</span>]
-};</code></pre>
-    </td>
-  </tr>
-</table>
+<br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kunal-Ch-Das-Official/Kunal-Ch-Das-Official/main/public/profile_code_box.svg" alt="Terminal Profile" width="760" />
 </div>
-
-
-<br/>
-
+<br />
 <!-- System Arsenal & Skill Matrix -->
 <div align="center">
   <h3>⚡ Technical Arsenal</h3>
